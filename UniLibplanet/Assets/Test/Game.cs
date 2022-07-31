@@ -63,7 +63,7 @@ namespace Scripts
             
         }
     
-        void Update()
+        void Start()
         {
             BlockHashText.text = "Block Hash: 0000";
             BlockIndexText.text = "Block Index: 0";
